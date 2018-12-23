@@ -6,7 +6,7 @@ class Car < Vehicle
     @wheel_number = wheel_number
   end
 
-  def wheel_size
+  def go
 
   end
 
